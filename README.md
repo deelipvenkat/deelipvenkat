@@ -1,4 +1,4 @@
-hi there , I am deelip venkat
+Hi there , I am deelip venkat
 I am interested in data science & machine learning.
 Please have a look around my repositories & feel free to use them for your personal projects if needed.
 
